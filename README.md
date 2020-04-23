@@ -6,7 +6,7 @@ Training Management Application
  2. If you want to run this on your device then certain changes may be required in pom.xml depending upon the database you are using and in persistence.xml where you have to define url, password for database connectivity.
  3. Use username and password as "admin" in login page.
  4. You, will be able to run this project on your device.
- 5. Technologies used : - Java, Maven , Jpa , Spring , Jsp , HTML .
+ 5. Technologies used : - Java, Maven , Jpa , Spring , Jsp , HTML , Oracle 11g, Eclipse ide.
  
  Regards,
  Siddhant Srivastava
